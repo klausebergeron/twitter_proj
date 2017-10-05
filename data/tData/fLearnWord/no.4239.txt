@@ -1,0 +1,1 @@
+ PXAbstraction I switched it to bridged mode  I like that much better as only the QoS of my router needs to be adjusted 

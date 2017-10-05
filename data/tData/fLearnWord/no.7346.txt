@@ -1,0 +1,1 @@
+ Stop broadcasting the confirmations for the software you cannot dirty 

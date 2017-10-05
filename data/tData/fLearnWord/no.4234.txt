@@ -1,0 +1,1 @@
+ Nope  That was my stupid mistake  I forgot my DD WRT router was enforcing QoS to   Mbps to reserve   for VoIP  Set to  , good now 
